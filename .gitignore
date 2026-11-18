@@ -1,0 +1,33 @@
+# Buyuk ikili dosyalar (firmware, GSI, yedekler) depoya girmez
+*.img
+*.img.gz
+*.bin
+*.gz
+*.tar
+*.tar.gz
+*.zip
+*.apk
+*.jar
+
+# Cihaz yedekleri / cikti dosyalari
+Yedek/
+bolumler/
+gsi/
+apk/
+loglar/
+*.log
+*.csv
+
+# Gecici
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editör
+.vscode/
+.idea/
