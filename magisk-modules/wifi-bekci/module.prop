@@ -1,0 +1,6 @@
+id=wifi-bekci
+name=Wi-Fi Bekci
+version=1.0
+versionCode=1
+author=community
+description=Wi-Fi koparsa veya acilista baglanmazsa tarama yapip kayitli aga otomatik baglanir; takilirsa Wi-Fi'yi kapat/ac yapar. Log: /data/local/tmp/wifi-bekci.log
