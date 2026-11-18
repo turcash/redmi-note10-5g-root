@@ -1,0 +1,6 @@
+id=camellia-wifi-fix
+name=Camellia Wi-Fi Fix
+version=0.3
+versionCode=3
+author=community
+description=MTK Wi-Fi ayarlarini geri koyar + dusuk gecikme (guc tasarrufu, uyku modu, DTIM kapali). Redmi Note 10 5G camellia.
